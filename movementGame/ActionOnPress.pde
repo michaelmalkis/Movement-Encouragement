@@ -1,0 +1,6 @@
+
+
+interface ActionOnPress {
+  
+  void actionOnMousePressed();
+}
